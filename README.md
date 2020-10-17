@@ -47,10 +47,9 @@ The analysis of the elction show that:
 
 This script works well for a single congressional district. However, this could be modified so that we can see the same results across all districts state-wide. We could acomplish this by also adding a "district" list/dictionary in the code. Where right now we only can go up to county. 
 
+<img src="https://github.com/roy-mojica/Election_Analysis/blob/main/Resources/Election_capture.PNG">
 
+We could also update this could to show the method of voting people utilize across the state (mail-in, punch cards, or direct recording electionic). This will help to get a betting understanidng of voting preferneces and address any potential lack of access to vote. We would need to capture that data in the data file in ordert add this to the scipt. 
 
-We could also update this could to show the method of voting people utilize across the state to get a betting understanidng of voting preferneces and address any potential lack of access to vote. We would need to capture that data in the data file in ordert add this to the scipt. 
+<img src="https://github.com/roy-mojica/Election_Analysis/blob/main/Resources/data_capture.PNG">
 
-
-
-## Challenge Summary
