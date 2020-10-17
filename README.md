@@ -1,5 +1,7 @@
 # Election_Analysis
 
+<img src="https://github.com/roy-mojica/Election_Analysis/blob/main/Resources/CO_Sec_of_State_logo.png" heigth="125" width="125">
+
 ## Project Overview
 
 The Colorado Board of Elections has given me the following tasks to complete the election audit of a recent local congressional election.
@@ -17,6 +19,7 @@ The Colorado Board of Elections has given me the following tasks to complete the
 
 - Data Source: election_results.csv
 - Software: Python 3.6.7, Visual studio Code, 1.50.1
+- CO Logo from [Link](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbrady.jeffcopublicschools.org%2Fnews%2Fnews%2Fcolorado_voter_registration_information&psig=AOvVaw3TiraYJ1tsTYOnhQbvOEQ0&ust=1602976581361000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCICJwqKfuuwCFQAAAAAdAAAAABAD)
 
 ## Election-Audit Results
 
