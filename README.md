@@ -30,7 +30,7 @@ The analysis of the elction show that:
   - Jefferson: 10.5% (38,855)
   - Denver: 82.8% (306,055)
   - Arapahoe: 6.7% (24,801)
--The county with the largest votes was:
+- The county with the largest votes was:
   - Denver
 - The candidates were:
   - Charles Casper Stockham
